@@ -1,0 +1,26 @@
+@BlazorAPIProject_HostAddress = http://localhost:5182
+
+### Create an account
+POST {{BlazorAPIProject_HostAddress}}/api/account/create
+Content-Type: application/json
+
+{
+  "email": "test@example.com",
+  "username": "test",
+  "password": "Password123!"
+}
+
+### Login (returns a JWT)
+POST {{BlazorAPIProject_HostAddress}}/api/account/login
+Content-Type: application/json
+
+{
+  "email": "test@example.com",
+  "password": "Password123!"
+}
+
+### Read all accounts
+GET {{BlazorAPIProject_HostAddress}}/api/account/readall
+Accept: application/json
+
+###
