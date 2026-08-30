@@ -161,3 +161,4 @@ C:\Users\Jonathan\source\BlazorAPIProject\BlazorAPIProject\obj\Debug\net10.0\ref
 C:\Users\Jonathan\source\BlazorAPIProject\BlazorAPIProject\obj\Debug\net10.0\BlazorAPIProject.pdb
 C:\Users\Jonathan\source\BlazorAPIProject\BlazorAPIProject\obj\Debug\net10.0\BlazorAPIProject.genruntimeconfig.cache
 C:\Users\Jonathan\source\BlazorAPIProject\BlazorAPIProject\obj\Debug\net10.0\ref\BlazorAPIProject.dll
+C:\Users\Jonathan\source\BlazorAPIProject\BlazorAPIProject\obj\Debug\net10.0\BlazorAPIProject.sourcelink.json
